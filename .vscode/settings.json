@@ -1,0 +1,15 @@
+{
+    "editor.formatOnType": true,
+    "terminal.integrated.env.osx": {
+        "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games"
+    },
+    "files.associations": {
+        "*.ml": "ocaml",
+        "*.mli": "ocaml"
+    },
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "ocaml.lintOnSave": true,
+    "ocaml.useOpamToResolve": true,
+    "window.zoomLevel": 1
+}
